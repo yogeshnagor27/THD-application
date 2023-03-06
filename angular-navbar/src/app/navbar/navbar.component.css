@@ -1,0 +1,20 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+#sp1
+{
+padding-right: 10px;
+
+}
+
+mat-toolbar{
+    background-color: #1a4273;
+    margin-top: 0px;
+    height: 5%;
+    padding: 10px;
+}
+
+a{
+    color:aliceblue;
+}
