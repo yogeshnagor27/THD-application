@@ -1,3 +1,27 @@
+## Multi-page Website with Angular and MongoDB Integration
+This project involved developing a highly responsive and dynamic multi-page website using Angular as the web framework and MongoDB as the cloud-based database system. The following technologies were used:
+
+- Angular
+- HTML
+- CSS
+- MongoDB
+- JavaScript
+- AJAX
+- jQuery
+
+## Features
+- Highly responsive and dynamic multi-page website
+- Utilized MongoDB as the cloud-based database system to store and manage the website's data effectively
+- Designed low-fidelity designs for the website, showcasing exceptional creativity and attention to detail
+- Created website signup and login pages with a language switching system, enhancing the website's accessibility and usability for users of different languages
+- Developed the website's front-end and back-end functionalities, ensuring seamless integration and efficient communication between the two components
+
+## Usage
+The website is accessible through any web browser. Users can create an account, log in, and switch between languages.
+
+## Conclusion
+Overall, the integration of Angular and MongoDB resulted in a highly responsive and dynamic multi-page website with robust functionalities. The low-fidelity designs and language switching system enhanced the website's accessibility and usability, while the use of MongoDB as the cloud-based database system ensured efficient data management.
+
 # Angular-Navbar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
